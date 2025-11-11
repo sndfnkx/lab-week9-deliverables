@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-Branching & Video: please commit each task in a separate branch and record the demonstration as required by the lab brief.
+Branching & Video: please commit each task in a separate branch and record the demonstration as required by the lab brief
