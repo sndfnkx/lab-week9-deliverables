@@ -2,7 +2,7 @@
 
 Uses MUI v5 components only.
 
-## How to run
+## How to run:
 ```bash
 npm install
 npm start
